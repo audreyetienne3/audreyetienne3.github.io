@@ -5,7 +5,7 @@ project:
 website:
   title: "Audrey Etienne"
   description: "Assistant Professor in Economics — Université Rouen Normandie (LERN)"
-  site-url: https://audreyetienne.github.io
+  site-url: https://audreyetienne3.github.io
   navbar:
     background: dark
     foreground: light
