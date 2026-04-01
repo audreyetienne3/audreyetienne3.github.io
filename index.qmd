@@ -12,10 +12,10 @@ page-layout: custom
 **Assistant Professor in Economics**\
 [LERN](https://lern.univ-rouen.fr/) — Université Rouen Normandie
 
-{{< fa envelope >}} [audrey.etienne3@univ-rouen.fr](mailto:audrey.etienne3@univ-rouen.fr)\
-{{< fa brands github >}} [GitHub](https://github.com/audreyetienne)\
-{{< fa brands google >}} [Google Scholar](https://scholar.google.com/citations?user=-sLoKqMAAAAJ&hl=en)\
-{{< fa building-columns >}} [HAL](https://cv.hal.science/audrey-etienne)
+✉ [audrey.etienne3@univ-rouen.fr](mailto:audrey.etienne3@univ-rouen.fr)\
+🔗 [GitHub](https://github.com/audreyetienne)\
+📚 [Google Scholar](https://scholar.google.com/citations?user=-sLoKqMAAAAJ&hl=en)\
+📄 [HAL](https://cv.hal.science/audrey-etienne)
 <!-- TODO: Ajoute ORCID si tu en as un -->
 <!-- {{< fa brands orcid >}} [ORCID](https://orcid.org/XXXX-XXXX-XXXX-XXXX) -->
 
