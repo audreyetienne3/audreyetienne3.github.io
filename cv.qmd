@@ -1,0 +1,11 @@
+---
+title: "CV"
+---
+
+<!-- TODO: Place ton CV PDF à la racine du projet sous le nom cv-audrey-etienne.pdf -->
+
+[Download CV (PDF)](cv-audrey-etienne.pdf){.btn .btn-primary}
+
+```{=html}
+<iframe src="cv-audrey-etienne.pdf" width="100%" height="800px" style="border: none; margin-top: 1.5rem;"></iframe>
+```

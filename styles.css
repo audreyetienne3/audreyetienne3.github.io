@@ -1,0 +1,143 @@
+/* ── Fonts ── */
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400&family=Source+Sans+3:wght@300;400;500;600&display=swap');
+
+:root {
+  --accent: #1a5276;
+  --accent-light: #2980b9;
+  --text-main: #2c3e50;
+  --text-muted: #5d6d7e;
+  --bg-subtle: #f8f9fa;
+  --border-light: #e5e8eb;
+}
+
+body {
+  font-family: 'Source Sans 3', sans-serif;
+  color: var(--text-main);
+  font-weight: 400;
+  line-height: 1.7;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Source Serif 4', serif;
+  font-weight: 600;
+  color: var(--accent);
+}
+
+h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 2px solid var(--border-light);
+}
+
+/* ── Homepage profile layout ── */
+.profile-grid {
+  max-width: 960px;
+  margin: 3rem auto;
+  padding: 0 1.5rem;
+  gap: 3rem;
+}
+
+.profile-sidebar {
+  text-align: left;
+  padding-top: 0.5rem;
+}
+
+.profile-sidebar h3 {
+  margin-top: 1rem;
+  margin-bottom: 0.2rem;
+  font-size: 1.5rem;
+}
+
+.profile-sidebar p {
+  font-size: 0.92rem;
+  color: var(--text-muted);
+  line-height: 1.8;
+}
+
+.profile-main {
+  max-width: 620px;
+}
+
+.profile-main h2 {
+  font-size: 1.3rem;
+  margin-top: 0;
+}
+
+/* ── Paper cards ── */
+.paper {
+  padding: 1.2rem 1.5rem;
+  margin-bottom: 1.5rem;
+  background: var(--bg-subtle);
+  border-left: 3px solid var(--accent);
+  border-radius: 0 6px 6px 0;
+}
+
+.paper h3 {
+  font-size: 1.1rem;
+  margin-top: 0;
+  margin-bottom: 0.3rem;
+  color: var(--text-main);
+}
+
+.paper p {
+  margin-bottom: 0.5rem;
+  font-size: 0.95rem;
+  color: var(--text-muted);
+}
+
+/* ── Course cards ── */
+.course {
+  padding: 1rem 1.5rem;
+  margin-bottom: 1rem;
+  border: 1px solid var(--border-light);
+  border-radius: 6px;
+}
+
+.course h4 {
+  margin-top: 0;
+  margin-bottom: 0.3rem;
+  font-size: 1.05rem;
+  color: var(--accent);
+}
+
+/* ── Buttons ── */
+.btn-primary {
+  background-color: var(--accent) !important;
+  border-color: var(--accent) !important;
+}
+
+.btn-primary:hover {
+  background-color: var(--accent-light) !important;
+  border-color: var(--accent-light) !important;
+}
+
+.btn-outline-primary {
+  color: var(--accent) !important;
+  border-color: var(--accent) !important;
+}
+
+.btn-outline-primary:hover {
+  background-color: var(--accent) !important;
+  color: white !important;
+}
+
+/* ── Navbar ── */
+.navbar {
+  font-family: 'Source Sans 3', sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+/* ── Footer ── */
+.nav-footer {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+/* ── Responsive ── */
+@media (max-width: 768px) {
+  .profile-grid {
+    gap: 1.5rem;
+  }
+}

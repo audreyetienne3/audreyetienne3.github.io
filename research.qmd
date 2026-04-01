@@ -1,0 +1,62 @@
+---
+title: "Research"
+---
+
+## Publications
+
+::: {.paper}
+### Is the Public Sector Losing the Battle for Talent? Evidence from Long French Panel Data
+*with Olivier Bargain & Blaise Melly* — **The Economic Journal**, 136(674), 686–720, 2026.
+
+We exploit an exceptionally long administrative panel dataset (1988–2019) for France to estimate the unconditional quantile effects of public sector employment, controlling for individual fixed effects. The public sector wage gap is broadly negative, with particularly large penalties at the top, contributing to wage compression. We correct for the incidental parameter bias using a split-panel jackknife method. Despite offering lower pay, the public sector attracts individuals with better observed and unobserved skills — but this skill gap narrows over time and vanishes among top earners, calling for policies to restore the attractiveness of public sector management careers.
+
+<!-- TODO: Ajoute le DOI de la version publiée -->
+[IZA Discussion Paper No. 11924](https://www.iza.org/publications/dp/11924){.btn .btn-outline-primary .btn-sm}
+:::
+
+::: {.paper}
+### Tax Minimization by French Cohabiting Couples
+*with Olivier Bargain, Damien Echevin, Nicolas Moreau & Adrien Pacifico* — **National Tax Journal**, 75(2), 265–296, 2022.
+
+French cohabiting couples with children form two separate tax units and must optimally assign their children to minimize tax liability. Using administrative tax data and a microsimulation model, we find that 25% of households fail to minimize their joint tax burden, in contradiction with the standard cooperative model. Suboptimal couples appear to use heuristics, are influenced by inertia, and may fail to fully cooperate — they also tend to separate more and marry less in the subsequent period.
+
+[Published version](https://doi.org/10.1086/719427){.btn .btn-primary .btn-sm}
+:::
+
+::: {.paper}
+### Informal Pay Gaps in Good and Bad Times: Evidence from Russia
+*with Olivier Bargain & Blaise Melly* — **Journal of Comparative Economics**, 49(3), 693–714, 2021.
+
+We estimate the informal wage gap in Russia using unconditional quantile regressions with individual fixed effects and a jackknife correction for the incidental parameter bias. Modest wage gaps point to a broadly competitive labor market, but a negative selection into informal employment emerges in the wake of the Great Recession — suggesting a shakeout of less productive workers from the formal sector while low-tier informal work becomes a last resort.
+
+[Published version](https://doi.org/10.1016/j.jce.2021.02.002){.btn .btn-primary .btn-sm}
+:::
+
+::: {.paper}
+### Blind Auditions? The Gendered Effects of the "Screen" When Hiring Orchestral Instrumentalists
+*with Hyacinthe Ravet, Reguina Hatzipetrou-Andronikou, Maxime Parodi & Hélène Périvier* — **Travail, genre et sociétés**, 53(1), 97–115, 2025.
+
+Using data from actual auditions for French orchestras and a triple differences design, we show that blind auditions eliminate gender-stereotyped selection: behind a screen, juries select against the majority gender of the instrument. In non-blind auditions, musicians whose gender aligns with the instrument's majority are favored. Gender stereotypes prevent juries from selecting the best musicians.
+
+<!-- TODO: Ajoute le DOI de la version TGS -->
+[HAL](https://sciencespo.hal.science/hal-04795485v1){.btn .btn-outline-primary .btn-sm}
+:::
+
+
+## Working papers
+
+::: {.paper}
+### Orchestrating Equality of Opportunities: Sex Segregation and Gender Bias in Decision-Making
+*with Hyacinthe Ravet, Reguina Hatzipetrou-Andronikou, Maxime Parodi & Hélène Périvier*
+
+Using original data from auditions for positions in French orchestras, we extend the seminal Goldin and Rouse (2000) design to study how screening procedures interact with sex segregation in hiring. We show that blind auditions eliminate gender-stereotyped selection: behind a screen, juries select against the majority gender of the instrument. In non-blind auditions, musicians whose gender aligns with the instrument's majority are systematically favored. A triple differences design identifies these patterns as causal effects of jury information on candidate gender.
+
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5193281){.btn .btn-primary .btn-sm}
+:::
+
+
+## Work in progress
+
+::: {.paper}
+### Democratizing Capital: Productivity Measurement Bias Under Worker Self-Management
+:::
