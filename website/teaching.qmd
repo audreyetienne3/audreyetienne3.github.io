@@ -1,0 +1,49 @@
+---
+title: "Teaching"
+---
+
+## Current courses — Université Rouen Normandie
+
+All courses taught since September 2022 within the UFR DESP.
+
+### Econometrics & quantitative methods
+
+::: {.course}
+#### Econometrics — L3
+*Lecture (CM), 15h — mutualized across programs*
+:::
+
+::: {.course}
+#### Applied Econometrics Projects — L3
+*Tutorial (TD), 25h*
+:::
+
+::: {.course}
+#### Econometrics III — M1 A2E
+*Lecture (CM) 24h + Tutorial (TD) 12h*
+:::
+
+::: {.course}
+#### Topics in Applied Microeconometrics — M2 A2E
+*Lecture (CM), 20h*
+:::
+
+### Decision under uncertainty & public economics
+
+::: {.course}
+#### Economics of Risk and Uncertainty — M1 EEET
+*Lecture (CM), 30h*
+:::
+
+::: {.course}
+#### Public Decision under Uncertainty — M2 EEET
+*Lecture (CM), 32h*
+:::
+
+
+## Previous positions
+
+- **ATER** — Aix-Marseille School of Economics (AMSE)
+- **ATER** — Université de Tours
+- **ATER** — Université Paris-Est Créteil (UPEC)
+

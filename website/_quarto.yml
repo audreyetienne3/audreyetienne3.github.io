@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Audrey Etienne"
+  description: "Assistant Professor in Economics — Université Rouen Normandie (LERN)"
+  site-url: https://audreyetienne3.github.io
+  navbar:
+    background: dark
+    foreground: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: envelope
+        href: mailto:audrey.etienne3@univ-rouen.fr
+      - icon: github
+        href: https://github.com/audreyetienne3
+      - icon: google
+        href: https://scholar.google.com/citations?user=-sLoKqMAAAAJ&hl=en
+  page-footer:
+    center: "© 2026 Audrey Etienne"
+
+format:
+  html:
+    theme:
+      light: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full

@@ -1,0 +1,49 @@
+---
+title: ""
+page-layout: custom
+---
+
+::: {.grid .profile-grid}
+
+::: {.g-col-12 .g-col-md-4 .profile-sidebar}
+
+### Audrey Etienne
+
+**Assistant Professor in Economics**\
+[LERN](https://lern.univ-rouen.fr/) — Université Rouen Normandie
+
+✉ [audrey.etienne3@univ-rouen.fr](mailto:audrey.etienne3@univ-rouen.fr)\
+🔗 [GitHub](https://github.com/audreyetienne3)\
+📚 [Google Scholar](https://scholar.google.com/citations?user=-sLoKqMAAAAJ&hl=en)\
+📄 [HAL](https://cv.hal.science/audrey-etienne)\
+🆔 [ORCID](https://orcid.org/0009-0003-4386-6031)
+
+:::
+
+::: {.g-col-12 .g-col-md-8 .profile-main}
+
+## About
+
+I am an assistant professor (*Maître de conférences*) in economics at the Université Rouen Normandie, affiliated with [LERN](https://lern.univ-rouen.fr/).
+
+My research sits at the intersection of labor economics, applied microeconomics, and public economics, with a focus on discrimination, gender inequality, and meritocracy.
+
+I hold a PhD in Economics from [Aix-Marseille School of Economics](https://www.amse-aixmarseille.fr/) (2018, dir. O. Bargain), a Master from [Paris School of Economics](https://www.parisschoolofeconomics.eu/) (PPD), and a Master in Management from [ESCP Europe](https://escp.eu/) (Programme Grande École). Before joining Rouen, I was a postdoctoral researcher at OFCE–Sciences Po and at DREES (French Ministry of Health).
+
+## Research interests
+
+- Discrimination & gender inequality
+- Moral hazard & information economics
+- Household finance & within-couple inequality
+- Political economy of populism
+- Public-private sector wage gaps
+
+## News
+
+- **2026** — "Is the Public Sector Losing the Battle for Talent?" published in *The Economic Journal* (with O. Bargain & B. Melly)
+- **2025** — "Blind Auditions?" published in *Travail, genre et sociétés* (with H. Ravet, R. Hatzipetrou-Andronikou, M. Parodi & H. Périvier)
+<!-- TODO: Ajoute d'autres actualités -->
+
+:::
+
+:::
